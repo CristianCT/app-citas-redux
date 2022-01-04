@@ -1,0 +1,37 @@
+.header{
+    background-color: #86166E;
+    color: white ;
+    justify-content: center;
+    font-size: 50px;
+}
+
+.ventana-principal{
+    display: flex;
+    flex-direction: row;
+    margin: 0 10px 0 10px;
+    justify-content: space-between;
+}
+
+.btn-morado{
+    background-color: #86166E;
+    border-color: #86166E;
+}
+
+.card{
+    min-width: 450px;
+    max-height: 300px;
+    display: inline-block;
+    margin: 40px 10px 20px 10px;
+}
+
+.card-header-cancel{
+    background-color: #C1041B;
+}
+
+.card-header-active{
+    background-color: green;
+}
+
+.table{
+    margin: 0 10px 20px 10px;
+}
